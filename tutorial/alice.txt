@@ -1,3 +1,3 @@
-
 How have you been doing lately
-awsome
+awesome
+hurray! my first push through WSL2 Ubuntu on Google Cloud shell
